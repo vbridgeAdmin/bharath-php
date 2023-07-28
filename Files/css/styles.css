@@ -1,0 +1,28 @@
+<style type="text/css">
+a{
+	text-decoration:underline;	
+}
+#submit{
+	padding:5px;
+	background:#039;
+	color:#FFF;
+}
+table th{
+	padding:10px;
+	background:#039;
+	color:#FFF;
+}
+table td{
+	padding:10px;
+	background:#ffffff;
+	color:#000;
+}
+.label{
+ width:200px;
+ padding:5px;	
+}
+.textfield{
+ width:200px;
+ padding:5px;	
+}
+</style>
